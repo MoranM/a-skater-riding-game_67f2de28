@@ -1,0 +1,23 @@
+{
+  "name": "a-skater-riding-game",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "description": "A browser-based running (browser-based HTML5 game) game",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "keywords": [
+    "game",
+    "running (browser-based HTML5 game)",
+    "webcontainer"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "vite": "^4.0.0"
+  }
+}
